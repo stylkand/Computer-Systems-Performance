@@ -10,6 +10,6 @@ This repository contains workload performance analysis for two server-like syste
 
 ## **Details**
 The first one is a simple simulation of a server-database and it's final performance evaluation was accomplished using Java Modelling Tools.
+
 The second one is a simulation of a queue system fully implemented and evaluated in python.
 
-Metrics used:
